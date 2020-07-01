@@ -1,0 +1,3 @@
+applescript
+mac-desktop
+Pillow
